@@ -1,0 +1,11 @@
+# https://developer.chrome.com/extensions/getstarted
+{
+    "name": "Getting Started Example",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "manifest_version": 2
+  }

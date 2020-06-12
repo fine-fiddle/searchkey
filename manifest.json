@@ -1,0 +1,6 @@
+{
+    "name": "Searchkey",
+    "version": "0.0.1",
+    "description": "Add a keyboard shortcut to focus the search bar in all websites",
+    "manifest_version": 2
+  }
