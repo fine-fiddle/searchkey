@@ -53,10 +53,10 @@
 				<string>example.com</string>
 			</array>
 			<key>Level</key>
-			<string>Some</string>
+			<string>All</string>
 		</dict>
 	</dict>
 	<key>NSHumanReadableDescription</key>
-	<string>This is SearchKey Extension. You should tell us what your extension does here.</string>
+	<string>SearchKey allows you to type &quot;/&quot; to select the search box on most websites. No more scrolling and clicking around!</string>
 </dict>
 </plist>
